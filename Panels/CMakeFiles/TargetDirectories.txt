@@ -1,0 +1,4 @@
+/home/time/PigeonShell/Panels/CMakeFiles/dock.dir
+/home/time/PigeonShell/Panels/CMakeFiles/taskbar.dir
+/home/time/PigeonShell/Panels/CMakeFiles/edit_cache.dir
+/home/time/PigeonShell/Panels/CMakeFiles/rebuild_cache.dir

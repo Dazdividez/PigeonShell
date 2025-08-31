@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/taskbar.dir/src/task/taskbar.cpp.o -o taskbar 

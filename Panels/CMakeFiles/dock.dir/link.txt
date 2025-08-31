@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dock.dir/src/dock/dock.cpp.o CMakeFiles/dock.dir/src/dock/dockbar.cpp.o -o dock  /usr/lib64/libsfml-graphics.so.2.5.1 /usr/lib64/libsfml-window.so.2.5.1 /usr/lib64/libsfml-system.so.2.5.1 

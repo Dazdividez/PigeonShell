@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/dock.dir/src/dock/dock.cpp.o"
+  "CMakeFiles/dock.dir/src/dock/dock.cpp.o.d"
+  "CMakeFiles/dock.dir/src/dock/dockbar.cpp.o"
+  "CMakeFiles/dock.dir/src/dock/dockbar.cpp.o.d"
+  "dock"
+  "dock.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/dock.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
